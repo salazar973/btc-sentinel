@@ -1,12 +1,26 @@
 {
   "cash": 10000,
   "btc": 0,
-  "emaFast": null,
-  "emaSlow": null,
+  "emaFast": 60113.705,
+  "emaSlow": 60113.705,
   "lastSignal": null,
   "lastBuyCost": null,
-  "ticks": 0,
+  "ticks": 1,
   "trades": [],
-  "history": [],
-  "log": []
+  "history": [
+    {
+      "t": "2026-06-27T03:08:01.909Z",
+      "p": 60113.705,
+      "equity": 10000,
+      "f": 60113.705,
+      "sl": 60113.705
+    }
+  ],
+  "log": [
+    {
+      "t": "2026-06-27T03:08:01.906Z",
+      "msg": "Warming up averages (1/15)"
+    }
+  ],
+  "updated": "2026-06-27T03:08:01.909Z"
 }
